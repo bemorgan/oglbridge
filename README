@@ -1,0 +1,1 @@
+oglbridge is a module that allows you to create platform independent 3d graphics with the Titanium platform. This is currently undergoing serious revisions to make it a fully featured graphics engine with a scene graph API. This will also probably involve a name change to make this sound a little cooler. A development roadmap is on the way.
